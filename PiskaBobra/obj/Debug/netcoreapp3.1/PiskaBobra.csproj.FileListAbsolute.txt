@@ -1,0 +1,13 @@
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\bin\Debug\netcoreapp3.1\PiskaBobra.exe
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\bin\Debug\netcoreapp3.1\PiskaBobra.deps.json
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\bin\Debug\netcoreapp3.1\PiskaBobra.runtimeconfig.json
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\bin\Debug\netcoreapp3.1\PiskaBobra.runtimeconfig.dev.json
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\bin\Debug\netcoreapp3.1\PiskaBobra.dll
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\bin\Debug\netcoreapp3.1\PiskaBobra.pdb
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.csprojAssemblyReference.cache
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.AssemblyInfoInputs.cache
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.AssemblyInfo.cs
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.dll
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.pdb
+C:\Users\StudentDev\source\repos\PiskaBobra\PiskaBobra\obj\Debug\netcoreapp3.1\PiskaBobra.genruntimeconfig.cache
