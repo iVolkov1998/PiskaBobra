@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\source\\repos\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\source\\repos\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\source\\repos\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj",
         "projectName": "PiskaBobra",
-        "projectPath": "C:\\Users\\StudentDev\\source\\repos\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PiskaBobra\\PiskaBobra\\PiskaBobra.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\source\\repos\\PiskaBobra\\PiskaBobra\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PiskaBobra\\PiskaBobra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
